@@ -18,8 +18,8 @@ Simplesmente continue fazendo o que sempre fez - melhor impossível!
 
 ## Licença
 
-(c) 2017 LTD. O Código (se você achar algum) está sone a GPU = General Public Unlicens:
+(c) 2017 LTD. O Código (se você achar algum) está sob a GPU = General Public Unlicense:
 
-* Você pode usar o código como quiser, desde que ache algum
+* Você pode usar o código como quiser, desde que ache algum.
 * Você pode assumir a autoria do código como quiser, desde que ache o dito cujo e tenha coragem de botar sua cara à tapa por esta merda.
 * Se você disser que fui eu que escrevi esta bosta, eu processo você.
