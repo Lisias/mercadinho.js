@@ -2,7 +2,7 @@
 
 ![](logo.jpg)
 
-PORRA, OUTRO FRAMEWORK!
+Agora finalmente o JavaScript tem mercado!
 
 ## Install
 
